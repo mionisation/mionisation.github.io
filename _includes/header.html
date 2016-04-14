@@ -1,18 +1,21 @@
 <aside class="main-header">
-  <header class="module">
-    <h1><a href="/">{{ site.title }}</a></h1>
+  <header class="module color1 title">
+    <h1><a href="/" id="welcomeTitle">{{ site.title }}</a></h1>
   </header>
-  <div class="module color2">
+  <div class="module color2 top">
     {{ site.description }}
   </div>
-  <nav class="module color4">
+  <nav class="module color4 middle">
     <a href="/">Home</a>
-    <a href="/about/">About</a>
-    <a href="/contact/">Contact</a>
+    <a href="/about/">Me</a>
   </nav>
-  <div class="module color3">
+  <div class="module color3 bottom">
     github/{{ site.github_username }}
     <br>twitter/{{ site.twitter_username }}
     <br>{{ site.email }}
   </div>
 </aside>
+<script type="text/javascript">
+  var greetings = ["hi", "hello","hallo", "hola", "salut", "ciao"];
+  document.getElementById("welcomeTitle").innerHTML = greetings[Math.floor(greetings.length*Math.random())];
+</script>

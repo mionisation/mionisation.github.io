@@ -2,19 +2,38 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-
-
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 // Our variables
-$base-font-family:  sans-serif;
-$base-font-size:    24px;
+$title-font: 'Fredericka the Great', sans-serif, cursive;
+$title-font-size:   70px;
+$base-font-family:  'Open Sans', sans-serif;
+$base-font-size:    21px;
 $base-line-height:  1.5;
-$link-hover:        rgba(210, 23, 23, 0.7);
-$spacing-unit:      1.4em;
-$blue:              rgba(25, 117, 229, 0.3);
-$yellow:            rgba(255, 244, 43, 0.5);
-$green:             rgba(138, 219, 79, 0.3);
-$body-background:   #f2f2f2;
+$spacing-unit:      1.5em;
+//navigation colors
+$first-bc:          rgba(81,137,195, 1.0);
+$first-bc-secondary: darken($first-bc, 5%);
+$second-bc:         darken($first-bc, 5%);
+$third-bc:         darken($first-bc, 5%);
+$fourth-bc:         lighten($first-bc, 5%);
+$edge-color:         darken($first-bc, 15%);;
+$edge-width:        4px;
+//article text background
+$color-article:     lighten(rgba(207,240,158, 1.0), 10%);
+//gradient background for whole site
+$body-background:   rgba(207,240,158, 1.0);
+$body-background-second: darken(rgba(168,219,168,1), 0%);
+//all links
+$link-color: rgba(11,72,107, 1);
+$link-color-highlight: lighten($link-color, 15%);
+//links in the navigation bar
+$nav-color:        lighten(rgba(207,240,158, 1.0), 10%);
+$nav-color-highlight: darken(rgba(207,240,158, 1.0), 15%);
+//navbar text
+$nav-font-family: sans-serif;
+$nav-font-color: #EEE;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
