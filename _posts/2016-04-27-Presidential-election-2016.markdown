@@ -10,7 +10,9 @@ The Austrian presidential election, that is.
 ...which was [quite interesting][1], mostly for two reasons:
 
 1. None of the candidates of the conventional party were even close to progressing to the second round
+
 2. The high lead of alternative-party and independent candidates
+
 3. A very high lead (far higher than the already high prediction) of the candidate of the right-wing party FPÖ
 
 ...which of course spurred a whole new lot of all kinds of debates. People from the left calling people from the right stupid and uneducated, people from the right calling people from the left unrealistic and pretentious. Sadly, the normal political discourse in Austria these days. Then, of course, lots of calling others Nazis or Communists or whatever. As if anyone would really care.

@@ -46,8 +46,11 @@ The programmer's love, expressed. How cute! Actually, one could combine the two 
 Some poems are harder to get. The high entry barrier of some of these poems is the only thing that can block someone from enjoying code poetry to the fullest.
 
 It seems that almost all of the code poem examples that I found can be classified in one of these two categories:
+
 1. They are actual poems themselves, either written in real, machine executable code or typed in some form of pseudo code inspired by some programming language
+
 2. They are not actual poems, but more executable poem generators, most of the times spitting out different results each time they are run.
+
 
 Anyway, I just found out that my Uni actually hosts one slam like this in May for the second time, so I will check it out. The results from last year were kinda mind blowing (especially for some that were in a german-english mix), so I can recommend [looking through the site][5].
 
