@@ -47,10 +47,9 @@ Some poems are harder to get. The high entry barrier of some of these poems is t
 
 It seems that almost all of the code poem examples that I found can be classified in one of these two categories:
 
-1. They are actual poems themselves, either written in real, machine executable code or typed in some form of pseudo code inspired by some programming language
+1. They are actual poems themselves, either written in real, machine executable code or typed in some form of pseudo code inspired by some programming language. For example, the two poems posted above!
 
-2. They are not actual poems, but more executable poem generators, most of the times spitting out different results each time they are run.
-
+2. They are not actual poems, but more executable poem generators, most of the times spitting out different results each time they are run. One brilliant example is [21st Century Prophecies by Hunter Bacot][7], which is a tongue-in-cheek statement about the ideological leaders of nowadays. Another one is [Ross Goodwin's Poetizer][6], which will spit out lots of more or less sensible rhymes according to the parameters you specify (of which there are lots to choose from).
 
 Anyway, I just found out that my Uni actually hosts one slam like this in May for the second time, so I will check it out. The results from last year were kinda mind blowing (especially for some that were in a german-english mix), so I can recommend [looking through the site][5].
 
@@ -60,3 +59,5 @@ Anyway, I just found out that my Uni actually hosts one slam like this in May fo
 [3]: http://stanford.edu/~mkagen/codepoetryslam/ "Stanford Code Poetry Slam Homepage"
 [4]: http://code-poems.com/ "Code{poems}"
 [5]: https://codepoetry.at/ "Code Poetry Slam at Technical University of Vienna 2016"
+[6]: https://github.com/rossgoodwin/poetizer "Ross Goodwin's Poetizer"
+[7]: http://stanford.edu/~mkagen/codepoetryslam/#1.1_bacot "Hunter Bacot's 21st Century Prophecies"
