@@ -74,6 +74,7 @@ GEM
     jekyll-coffeescript (1.0.1)
       coffee-script (~> 2.2)
     jekyll-feed (0.3.1)
+    jekyll-footnotes (1.0.0)
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
     jekyll-mentions (0.2.1)
@@ -141,6 +142,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-footnotes
 
 BUNDLED WITH
    1.11.2
