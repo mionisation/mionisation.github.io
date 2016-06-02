@@ -11,3 +11,6 @@ permalink:    /:year/:title
 
 # Build settings
 markdown: kramdown
+
+#Plug-ins
+gems: [jekyll/footnotes]
