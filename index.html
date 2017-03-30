@@ -9,7 +9,7 @@ layout: default
     </h1>
     <time>{{ post.date| date: "%m/%d/%Y" }}</time>
     <p>
-      {{ post.content | strip_html | truncate: 500 }}
+      {{ post.excerpt | truncatewords = 200 }}
     </p>
   </article>
 {% endfor %}
@@ -21,7 +21,7 @@ layout: default
     </h1>
     <time>{{ post.date| date: "%m/%d/%Y" }}</time>
     <p>
-      {{ post.content | strip_html | truncate: 150 }}
+      {{ post.excerpt | truncatewords = 150}}
     </p>
 </article>
 {% endfor %}
