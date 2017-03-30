@@ -9,11 +9,11 @@
     <a href="/">Home</a>
     <a href="/about/">Me</a>
   </nav>
-  <div class="module color3 bottom">
-    github/{{ site.github_username }}
-    <br>linkedin/{{ site.linkedin_username }}
-    <br>{{ site.email }}
-  </div>
+  <nav class="module color3 bottom">
+    <a href="{{ site.github_url }}">Github</a>
+    <a href="{{ site.linkedin_url }}">LinkedIn</a>
+    <a href="mailto:{{ site.email }}?Subject=Hi%20there!" target="_top">Mail</a>
+  </nav>
 </aside>
 <script type="text/javascript">
   var greetings = ["hi", "hello","hallo", "hola", "salut", "ciao"];

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Comic"
+date:   2017-04-01 19:37:01
+categories: blog
+---
+{{ HOME_PATH }}
+{{ "/comics/1_c_Icy_COLOR.png" | absolute_url }}
+![A comic]({{ "comics/1_c_Icy_COLOR.png" | absolute_url }})
