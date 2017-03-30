@@ -1,4 +1,0 @@
-For custom crosswords, edit the file js/script.js with your clues and answers based on present data. you need to adjust coordinates.
-You also need to change the variable "wordsLength" in js/jquery.crossword.js for triggering the winning screen.
-
-All credit for the crossword itself go to Jesse Weisbeck >> https://github.com/jweisbeck/Crossword

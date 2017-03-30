@@ -26,6 +26,13 @@ Maybe the conventionals will take the chance and make some changes. Maybe they w
 
 Anyway, I don't want to make a big opinion piece of this. We will see on the 22nd May who finally gets the presidency - everything is possible and depends, above all, on the amount of non-voters and how the voters for the other, now disqualified candidates, will decide.
 
+Post-Chaos Edit: What an election! So much (smear) campaigning for one of the most unimportant political positions in the world! It's hilarious how the rest of this campaign unfolded. After the second round, won closely by Van der Bellen, the right-wingers succeeded into nullify the whole thing! Vote repetition! Voting a third time! But actually not - shortly before election day, the envelopes used for voting-by-mail were found to have a faulty glue attached to them! This meant... A fourth round! Millions of taxpayers money and hundreds of hours wasted... Luckily, the fault was quickly found by the Austrian officials: It was german glue! Those pesky germans, trying to strip our democracy down to its fundaments...
+
+And then we voted a fourth time for our president. Beginning of December... Looking back, this election really dominated conversation and press the good part of 2016 - pretty insane! I guess the same goes for the US.
+
+Politics is a blast!
+
+
 [1]: http://derstandard.at/2000035634582 "Results Presidential Election 2016 (german)"
 [2]: http://www.profil.at/home/schwarz-blau-regiert-291263 "Article by profil.at (german)"
 [3]: https://de.wikipedia.org/wiki/Hypo_Alpe_Adria#Finanzaff.C3.A4ren_um_die_Hypo_Alpe-Adria_Bank "Hypo Skandal (german)"
