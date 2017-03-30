@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Michael Ion. Austria, Vienna
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://michaelion.net" # the base hostname & protocol for your site
-linkedin_url: "michael-ion"
-github_url:  "mionisation"
+linkedin_url: "https://www.linkedin.com/in/michael-ion/"
+github_url:  "https://github.com/mionisation"
 permalink:    /:year/:title
 
 # Build settings
