@@ -5,9 +5,9 @@ date:   2017-02-21 20:12:01
 categories: blog
 ---
 ![Complete Visualization: Public vs. Car transportation cost in Vienna]({{ "img/energy/vis.png" | absolute_url }})
-With some time during my holidays, I took part in the "Open Energy Data Challenge 2017"[^2] organized by the City of Vienna council. The aim of the project was to come up with an original idea for putting the publicly available data of the most recent energy report[^1] to good use.
+With some time during my holidays, I took part in the Open Energy Data Challenge 2017[^2] organized by the City of Vienna council. The aim of the project was to come up with an original idea for putting the publicly available data of the most recent energy report[^1] to good use.
 
-#Looking through the data
+# Looking through the data
 
 For this, all participants received numerous excel files that contain all the data in a neat tabular form and additional visualizations used in the report. There were a lot of different attributes, but at the first glance, it was hard to put something useful together. The data included everything about consumption, prices and distribution of energy. By energy, everything was included - Fuel to power cars, electricity produced by various sources like wind farms or coal plants, and so on. It was split up into data on industry and private homes. Some of the attributes concerned only Vienna, some only different states, some information was only available aggregated on the whole of Austria. Some were only measures for the year 2013, others included dates back to 20, 30 years ago. It was a mess.
 
@@ -15,7 +15,7 @@ I first wanted to make a cool map-based visualizations that the user could manip
 
 Well, after carefully looking through each single file, I noticed there was some interesting data on car usage, fuel price, yearly ticket costs for public transport and other transportation-related items. I decided to do a visualization to compare what the average Austrian citizen spends on public transport with what he would spend on fuel using a car.
 
-#Building the project
+# Building the project
 
 ## Using Shiny
 
