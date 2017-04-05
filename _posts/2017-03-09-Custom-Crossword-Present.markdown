@@ -5,6 +5,7 @@ date:   2017-03-09 20:12:01
 categories: blog
 ---
 
+![Example Crossword using the Qurossword Project by J.Weisbeck]({{ "img/crossword/crossword.png" | absolute_url }})
 So this year, I wanted to give my best friends a special gift - or better said, I wanted to give them my gifts in a special manner. So instead of just handing them a well-thought-out gift, I made a crossword puzzle for them to solve before allowing them to unravel their gifts. The clues consisted of funny memorabilia, quotes, events and other random things that were in some way connected to my friends or my friendship to them. I will show you how you can make a similar one in no time! Your friends, family or lovers will love it. In the digital present, nothing is as real as a digital present!
 
 ## 1. Get your clues together
