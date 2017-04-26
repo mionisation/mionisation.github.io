@@ -57,11 +57,11 @@ No "real" live games. This can be a turn-off to some hardcore gamers that want t
 This got longer than expected! I will focus on other sites in another post, at another time. Hope you enjoyed!
 
 
-[^1] <i>Compared to playing your friends, it is sometimes more satisfying if you play, let's say, a french opponent online in 'Through the Ages' and they succumb to your giant army led by Napoleon - Ze tableaus 'ave turned, mon ami! Only to have your opponent play Gandhi in the next go and rendering your whole power useless. D'oh...</i>
+[^1]: <i>Compared to playing your friends, it is sometimes more satisfying if you play, let's say, a french opponent online in 'Through the Ages' and they succumb to your giant army led by Napoleon - Ze tableaus 'ave turned, mon ami! Only to have your opponent play Gandhi in the next go and rendering your whole power useless. D'oh...</i>
 
-[^2] <i>One way to find those, is to look at the <a href="http://www.yucata.de/en/Statistics">"Yucata Game Statistics"</a>. Often, the most played games on the sites are also the easiest and shortest - like "Can't Stop" in this case.</i>
+[^2]: <i>One way to find those, is to look at the <a href="http://www.yucata.de/en/Statistics">"Yucata Game Statistics"</a>. Often, the most played games on the sites are also the easiest and shortest - like "Can't Stop" in this case.</i>
 
-[^3] <i>Especially for the times you just can't persuade anyone to play that awesome new game that takes two hours and another one to explain and set up</i>
+[^3]: <i>Especially for the times you just can't persuade anyone to play that awesome new game that takes two hours and another one to explain and set up</i>
 
 
 [rrr]: http://www.yucata.de/en/Rules/RRR2
