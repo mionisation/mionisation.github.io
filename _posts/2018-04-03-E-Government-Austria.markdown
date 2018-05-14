@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How not to do E-Government - The "Citizen Card" of Austria
-date:   201-04-03 19:16:01
+title:  "How not to do E-Government - The 'Citizen Card' of Austria"
+date:   2018-04-03 19:16:01
 categories: blog
 ---
 

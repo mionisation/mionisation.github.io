@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An introduction to... The best places to play awesome board games online! Part 1"
+title:  "An introduction to... The best places to play awesome board games online!"
 date:   2016-10-27 20:12:01
 categories: blog
 ---
@@ -55,6 +55,15 @@ A really cool feature of Yucata is that they always incorporate the rules of eve
 No "real" live games. This can be a turn-off to some hardcore gamers that want to finish games in one go - there is no penalty if someone just decides to log out and leave a game unfinished. Sometimes for weeks. Games get also deleted after 30 days of inactivity, so that can be annoying if you had a really good go at one game, but you can't get it completely finished.
 
 This got longer than expected! I will focus on other sites in another post, at another time. Hope you enjoyed!
+For completion, these are other sites that I am also playing on:
+
+# 2. Board Game Arena
+[Board Game Arena][bga]
+
+Real-time gaming built on cutting edge web technologies like [Sockets][socketio] and [Dojo][dojo]
+
+# 3. Boîte à jeux
+[Boîte à jeux][baj] is another french site, which is functionally very comparable to Yucata.
 
 
 [^1]: <i>Compared to playing your friends, it is sometimes more satisfying if you play, let's say, a french opponent online in 'Through the Ages' and they succumb to your giant army led by Napoleon - Ze tableaus 'ave turned, mon ami! Only to have your opponent play Gandhi in the next go and rendering your whole power useless. D'oh...</i>
@@ -64,6 +73,11 @@ This got longer than expected! I will focus on other sites in another post, at a
 [^3]: <i>Especially for the times you just can't persuade anyone to play that awesome new game that takes two hours and another one to explain and set up</i>
 
 
+[baj]: http://boiteajeux.net/
+[yucata]: http://yucata.de
+[bga]: http://boardgamearena.com/
+[socketio]: http://socket.io/
+[dojo]: http://dojotoolkit.org/
 [rrr]: http://www.yucata.de/en/Rules/RRR2
 [acres]: http://www.yucata.de/en/Rules/FewAcresOfSnow
 [revenant]: http://www.imdb.com/title/tt1663202/
