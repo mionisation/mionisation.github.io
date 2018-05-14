@@ -11,7 +11,7 @@ I organise my agenda with [Google Calendar][gc], but I discovered that it is not
 
 After a quick search, I discovered there were some small command-line scripts or windows executables available to merge several .ics files into one, but none of them was a simple and painless website.
 
-This is why I decided to make a website for just this very specific usecase! It is hosted here on:
+This is why I decided to make a website for just this very specific usecase! Find it here, at:
 [http://michaelion.net/icsMerge][tool]
 
 [wad]: https://wearedevelopers.com
